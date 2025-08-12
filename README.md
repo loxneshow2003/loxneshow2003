@@ -1,17 +1,17 @@
-![code-review development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwNmhua3B6aGN4ZHZoMzhieXh6N3ViOHl6aDUweWQ3d2Y3dGtyOHJtOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IAS9RwJq5p6kJa/giphy.gif)
-
 # Introduction
-Bonjour, je suis loxneshow2003, un développeur passionné par la technologie et le codage.
+Bonjour! Je suis loxneshow2003, un développeur passionné par la technologie et l'innovation. J'aime créer des projets qui résolvent des problèmes et améliorent la vie des utilisateurs.
 
 # Skills
-- Langages : JavaScript, Python, Java
-- Frameworks : React, Node.js, Django
-- Outils : Git, Docker, Visual Studio Code
+- **Langages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Outils:** Git, Docker, VSCode
+- **Bases de données:** MySQL, MongoDB
 
 # Projects
-- **Portfolio** : Un site web personnel pour présenter mes projets.
-- **Application To-Do** : Une application de gestion de tâches construite avec React.
+- **Mon Projet 1:** Une application web pour la gestion des tâches.
+- **Mon Projet 2:** Un site e-commerce construit avec React.
+- **Mon Projet 3:** Un API RESTful pour un service de livraison.
 
 # Contacts
-- Email : loxneshow2003@example.com
-- LinkedIn : [loxneshow2003](https://www.linkedin.com/in/loxneshow2003)
+- **Email:** loxneshow2003@example.com
+- **LinkedIn:** [loxneshow2003](https://www.linkedin.com/in/loxneshow2003)
